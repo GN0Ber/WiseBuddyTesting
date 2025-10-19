@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__css-text-146c3p1 r-fontSize-1i10wst r-_2b7afa</name>
+   <tag></tag>
+   <elementGuidId>39ba6b2b-802d-4730-8951-0a38d99e50c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/div/div/div/div[5]/div/div/div/div/div[2]/div[4]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Sair da Conta&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>01f26cc1-2da3-467f-8f03-3967c2ca4bc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>d329d547-9eed-423a-a7f2-d8e27ab974bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-text-146c3p1 r-fontSize-1i10wst r-marginLeft-1ow6zhx</value>
+      <webElementGuid>0e8667af-e657-4662-a28f-f110fb1d7e6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sair da Conta</value>
+      <webElementGuid>cc78d36d-91ce-485f-9acf-653012e37360</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0 r-bottom-1p0dtai r-left-1d2f490 r-position-u8s1d r-right-zchlnj r-top-ipm5af&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0 r-overflow-1udh08x&quot;]/div[@class=&quot;css-view-g5y9jx r-bottom-1p0dtai r-left-1d2f490 r-position-u8s1d r-right-zchlnj r-top-ipm5af&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-WebkitOverflowScrolling-150rngu r-flexDirection-eqz5dr r-flexGrow-16y2uox r-flexShrink-1wbh5a2 r-overflowX-11yh6sk r-overflowY-1rnoaur r-transform-agouwx r-backgroundColor-4dcnlu r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx&quot;]/div[@class=&quot;css-view-g5y9jx r-marginTop-1wzrnnt r-paddingInline-cxgwc0&quot;]/div[@class=&quot;css-view-g5y9jx r-transitionProperty-1i6wzkk r-userSelect-lrvibr r-cursor-1loqt21 r-touchAction-1otgn73 r-alignItems-1awozwy r-borderBottomColor-ctepgc r-flexDirection-18u37iz r-paddingBlock-w7s2jr&quot;]/div[@class=&quot;css-text-146c3p1 r-fontSize-1i10wst r-marginLeft-1ow6zhx&quot;]</value>
+      <webElementGuid>297db821-9f48-43e2-9a60-791a69fe8549</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div/div/div/div[5]/div/div/div/div/div[2]/div[4]/div[2]</value>
+      <webElementGuid>2686b58d-a995-43db-a1a3-10174901ced9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/following::div[1]</value>
+      <webElementGuid>81a9602b-4ce9-46c6-8004-dd0d8b50056b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notificações'])[1]/following::div[3]</value>
+      <webElementGuid>c89ef918-621f-4940-b76a-456cc5713dfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/preceding::div[2]</value>
+      <webElementGuid>21fdbd7c-f0fa-4b8e-9a4d-e5d739ec760f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[2]/preceding::div[4]</value>
+      <webElementGuid>b0bd5f2b-5f79-4bf8-8749-1d0dea44e5c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sair da Conta']/parent::*</value>
+      <webElementGuid>8174f19b-bbb1-4ace-8f0f-e58c9ef54a8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]</value>
+      <webElementGuid>80aeb0d9-ec70-4001-8530-22ffaedcdd03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sair da Conta' or . = 'Sair da Conta')]</value>
+      <webElementGuid>04316ed4-d784-4221-b30e-23633e9cca91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

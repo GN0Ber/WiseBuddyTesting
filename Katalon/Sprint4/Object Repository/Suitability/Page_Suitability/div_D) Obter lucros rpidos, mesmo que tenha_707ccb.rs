@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_D) Obter lucros rpidos, mesmo que tenha_707ccb</name>
+   <tag></tag>
+   <elementGuidId>cce2004c-b4cd-4916-ae07-cbdc89635df9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.css-view-g5y9jx.r-transitionProperty-1i6wzkk.r-userSelect-lrvibr.r-cursor-1loqt21.r-touchAction-1otgn73.r-backgroundColor-14sbq61.r-borderRadius-1jkafct > div.css-text-146c3p1.r-color-jwli3a.r-fontWeight-majxgm.r-padding-edyy15.r-textAlign-q4m81j.r-textTransform-tsynxw</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/div/div/div/div[2]/div/div/div/button/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Próxima&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>46092e1d-0bb0-4087-8e1b-a7b7ea91df41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>57590d2f-18f1-4290-a512-4753cdc063b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-text-146c3p1 r-color-jwli3a r-fontWeight-majxgm r-padding-edyy15 r-textAlign-q4m81j r-textTransform-tsynxw</value>
+      <webElementGuid>8779b19a-fac3-4caa-9c8d-25372ae4d2c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Próxima</value>
+      <webElementGuid>da5d0477-f84f-4dab-a72c-acf73d4689d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0 r-bottom-1p0dtai r-left-1d2f490 r-position-u8s1d r-right-zchlnj r-top-ipm5af&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0 r-overflow-1udh08x&quot;]/div[@class=&quot;css-view-g5y9jx r-bottom-1p0dtai r-left-1d2f490 r-position-u8s1d r-right-zchlnj r-top-ipm5af&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-alignItems-1awozwy r-backgroundColor-185fvqi r-flex-13awgt0 r-justifyContent-1777fci r-padding-1pcd2l5&quot;]/button[@class=&quot;css-view-g5y9jx r-transitionProperty-1i6wzkk r-userSelect-lrvibr r-cursor-1loqt21 r-touchAction-1otgn73 r-backgroundColor-14sbq61 r-borderRadius-1jkafct&quot;]/div[@class=&quot;css-text-146c3p1 r-color-jwli3a r-fontWeight-majxgm r-padding-edyy15 r-textAlign-q4m81j r-textTransform-tsynxw&quot;]</value>
+      <webElementGuid>0100e0ec-f5ba-4703-959e-978f07cf4454</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div/div/div/div[2]/div/div/div/button/div</value>
+      <webElementGuid>a4ebe49c-91dd-47ef-b606-4701c898db04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='D) Obter lucros rápidos, mesmo que tenha altos riscos.'])[1]/following::div[1]</value>
+      <webElementGuid>f54ce5ee-a542-4681-b150-aa6526a18750</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='C) Aumentar significativamente meu patrimônio ao longo do tempo.'])[1]/following::div[3]</value>
+      <webElementGuid>10158a00-4bf2-4e31-af61-b00afb801da3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/preceding::div[2]</value>
+      <webElementGuid>db252f21-07db-4159-aff2-4818e9cac2d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[2]/preceding::div[4]</value>
+      <webElementGuid>de4baa3f-fea5-45ea-a3ae-3c29b671efec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Próxima']/parent::*</value>
+      <webElementGuid>1d8299d1-c924-4b95-952c-d4bcc08574ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div/div/div/button/div</value>
+      <webElementGuid>51db488b-e90d-457e-b127-d8d80528c34a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Próxima' or . = 'Próxima')]</value>
+      <webElementGuid>1ddf00c0-a2fe-4069-a08f-9c23bfba5105</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

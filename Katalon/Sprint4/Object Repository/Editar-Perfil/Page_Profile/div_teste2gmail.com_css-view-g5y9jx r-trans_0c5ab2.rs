@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_teste2gmail.com_css-view-g5y9jx r-trans_0c5ab2</name>
+   <tag></tag>
+   <elementGuidId>2b42ce65-389e-49dd-9b78-f1698833be8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-view-g5y9jx.r-transitionProperty-1i6wzkk.r-userSelect-lrvibr.r-cursor-1loqt21.r-touchAction-1otgn73.r-alignItems-1awozwy.r-borderBottomColor-ctepgc.r-borderBottomWidth-qklmqi.r-flexDirection-18u37iz.r-paddingBlock-w7s2jr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/div/div/div/div[2]/div/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Editar perfil&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8e7630fa-f689-4e4b-822d-b64aad15adcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Editar perfil</value>
+      <webElementGuid>48e0ba65-9c5b-401b-b98a-c8bf81951609</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>a014e8ef-3144-4f85-b67b-58283bfd7169</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-view-g5y9jx r-transitionProperty-1i6wzkk r-userSelect-lrvibr r-cursor-1loqt21 r-touchAction-1otgn73 r-alignItems-1awozwy r-borderBottomColor-ctepgc r-borderBottomWidth-qklmqi r-flexDirection-18u37iz r-paddingBlock-w7s2jr</value>
+      <webElementGuid>e6da64de-b2d5-4781-8561-8d50a9f7d06d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Editar Perfil</value>
+      <webElementGuid>fd3dd2b7-23af-4da4-8721-ff3c0e31137c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0 r-bottom-1p0dtai r-left-1d2f490 r-position-u8s1d r-right-zchlnj r-top-ipm5af&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0 r-overflow-1udh08x&quot;]/div[@class=&quot;css-view-g5y9jx r-bottom-1p0dtai r-left-1d2f490 r-position-u8s1d r-right-zchlnj r-top-ipm5af&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-WebkitOverflowScrolling-150rngu r-flexDirection-eqz5dr r-flexGrow-16y2uox r-flexShrink-1wbh5a2 r-overflowX-11yh6sk r-overflowY-1rnoaur r-transform-agouwx r-backgroundColor-4dcnlu r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx&quot;]/div[@class=&quot;css-view-g5y9jx r-marginTop-1wzrnnt r-paddingInline-cxgwc0&quot;]/div[@class=&quot;css-view-g5y9jx r-transitionProperty-1i6wzkk r-userSelect-lrvibr r-cursor-1loqt21 r-touchAction-1otgn73 r-alignItems-1awozwy r-borderBottomColor-ctepgc r-borderBottomWidth-qklmqi r-flexDirection-18u37iz r-paddingBlock-w7s2jr&quot;]</value>
+      <webElementGuid>3e50c32e-2fca-4e33-91c3-370e857dc6ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div/div/div/div[2]/div/div/div/div/div[2]/div</value>
+      <webElementGuid>5126719f-9d7f-4237-8b5b-32243b7aa1c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='teste2@gmail.com'])[1]/following::div[2]</value>
+      <webElementGuid>028620dc-5cc0-40e4-9022-ae672b9da2ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Teste2'])[1]/following::div[3]</value>
+      <webElementGuid>630558ff-9bbb-48d6-b4f8-50a14c6388a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div</value>
+      <webElementGuid>d1d384aa-38c6-4618-9112-6cfb2888582f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Editar Perfil' or . = 'Editar Perfil')]</value>
+      <webElementGuid>01c0d776-90ea-402c-ba7c-fcddf16c7374</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

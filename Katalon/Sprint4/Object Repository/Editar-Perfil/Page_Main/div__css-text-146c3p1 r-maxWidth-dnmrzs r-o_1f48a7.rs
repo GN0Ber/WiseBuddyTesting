@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__css-text-146c3p1 r-maxWidth-dnmrzs r-o_1f48a7</name>
+   <tag></tag>
+   <elementGuidId>38da3be0-4a46-45f3-a719-f36dbc72432e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/div/div/div[2]/div[2]/div[5]/a/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=tab[name=&quot;  Profile&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>37d403de-66aa-4eab-a18d-381ddff22e49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>7278d7f1-85e4-4a61-8a04-1e68c5562a89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-text-146c3p1 r-maxWidth-dnmrzs r-overflow-1udh08x r-textOverflow-1udbk01 r-whiteSpace-3s2u2q r-wordWrap-1iln25a r-backgroundColor-1niwhzg r-textAlign-q4m81j r-lineHeight-135wba7 r-marginInlineStart-1a11zyx r-fontSize-n6v787 r-marginInlineStart-wizibn</value>
+      <webElementGuid>cdfb39a8-c5ff-4e95-ac9e-d5b6baa9ce80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Profile</value>
+      <webElementGuid>64ccce27-bac0-45de-9043-22fb821b29cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0 r-bottom-1p0dtai r-left-1d2f490 r-position-u8s1d r-right-zchlnj r-top-ipm5af&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-bottom-1p0dtai r-right-zchlnj r-left-1d2f490 r-pointerEvents-105ug2t&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0 r-flexDirection-18u37iz&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/a[@class=&quot;css-view-g5y9jx r-touchAction-1otgn73 r-alignItems-1awozwy r-flexDirection-18u37iz r-justifyContent-1777fci r-padding-1uu6nss&quot;]/div[@class=&quot;css-text-146c3p1 r-maxWidth-dnmrzs r-overflow-1udh08x r-textOverflow-1udbk01 r-whiteSpace-3s2u2q r-wordWrap-1iln25a r-backgroundColor-1niwhzg r-textAlign-q4m81j r-lineHeight-135wba7 r-marginInlineStart-1a11zyx r-fontSize-n6v787 r-marginInlineStart-wizibn&quot;]</value>
+      <webElementGuid>4ebb3dd4-3414-4329-b136-15ea33407d5e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div/div/div[2]/div[2]/div[5]/a/div[2]</value>
+      <webElementGuid>9b6751fa-0703-417b-9a2e-5b369417ebce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[2]/following::div[1]</value>
+      <webElementGuid>91dde6a5-3a03-4e2f-885a-41a3a2009fcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/following::div[3]</value>
+      <webElementGuid>75d6987a-ac98-4c2a-9fda-f1522e3a0f76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Profile']/parent::*</value>
+      <webElementGuid>69ae61df-a835-400c-8c23-074959f032dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/a/div[2]</value>
+      <webElementGuid>ab4f7eee-a7a4-47ef-b3e8-5619feea2ba1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Profile' or . = 'Profile')]</value>
+      <webElementGuid>03fd215a-bea8-478f-b793-dcecfd9d0002</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

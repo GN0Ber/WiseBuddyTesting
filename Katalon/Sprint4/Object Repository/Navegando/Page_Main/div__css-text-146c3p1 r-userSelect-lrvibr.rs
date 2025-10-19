@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__css-text-146c3p1 r-userSelect-lrvibr</name>
+   <tag></tag>
+   <elementGuidId>b9e226fa-a93b-4c5a-a3a7-a3025606a2aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/div/div/div[2]/div[2]/div/a/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=tab[name=&quot;  Home&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8474ff8a-1616-4695-ab46-9b41d57c9669</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>465557fe-fc7c-4725-8839-7972235ce8c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-text-146c3p1 r-userSelect-lrvibr</value>
+      <webElementGuid>73d9a633-98e2-4b0b-ac3a-c244def44984</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>9e889e0a-bec7-452e-8ab1-3af1d3992d5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0 r-bottom-1p0dtai r-left-1d2f490 r-position-u8s1d r-right-zchlnj r-top-ipm5af&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-bottom-1p0dtai r-right-zchlnj r-left-1d2f490 r-pointerEvents-105ug2t&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0 r-flexDirection-18u37iz&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/a[@class=&quot;css-view-g5y9jx r-touchAction-1otgn73 r-alignItems-1awozwy r-flexDirection-eqz5dr r-justifyContent-1h0z5md r-padding-1uu6nss&quot;]/div[@class=&quot;css-view-g5y9jx r-height-h0d30l r-width-726pan&quot;]/div[@class=&quot;css-view-g5y9jx r-alignItems-1awozwy r-alignSelf-1kihuf0 r-height-1pi2tsx r-justifyContent-1777fci r-position-u8s1d r-width-13qz1uu&quot;]/div[@class=&quot;css-text-146c3p1 r-userSelect-lrvibr&quot;]</value>
+      <webElementGuid>d1c9fca7-4f0f-4182-af0c-3187dd1c023b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div/div/div[2]/div[2]/div/a/div/div[2]/div</value>
+      <webElementGuid>e07df784-e4e1-4a1d-87a3-c129bccdc96c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/following::div[2]</value>
+      <webElementGuid>f97a2d5f-2625-41d6-86d1-0dfb6f5574c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver Última Recomendação'])[1]/following::div[9]</value>
+      <webElementGuid>d2bd073a-757f-4b6d-80d7-ea6c29261a3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::div[1]</value>
+      <webElementGuid>0fcd5d4a-5f74-4ec6-8e6f-1f0d7f6d4ebd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/preceding::div[2]</value>
+      <webElementGuid>cbdf7ce1-d419-4885-be60-fa7b5dac4f9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div[2]/div</value>
+      <webElementGuid>ba82fc6d-a7b7-4364-b6d2-bfc8044f95c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '' or . = '')]</value>
+      <webElementGuid>e1e5b0db-093b-4240-91ec-f6f807320b5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

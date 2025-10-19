@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Conversar com o Assistente_css-view-g5y_5ab073</name>
+   <tag></tag>
+   <elementGuidId>a715ecb6-1b36-4939-abb8-6f4fd845bd8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/div/div/div/div/div/div/div/div[5]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Refazer Suitability&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6f9447df-7fce-498c-8857-d2ff7632f671</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>f5a92046-9e85-416b-a5ec-9d00c833e467</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-view-g5y9jx r-transitionProperty-1i6wzkk r-userSelect-lrvibr r-cursor-1loqt21 r-touchAction-1otgn73 r-alignItems-1awozwy r-aspectRatio-1ujkv8a r-backgroundColor-spuqty r-borderColor-1yh2gps r-borderRadius-1fuqb1j r-borderWidth-rs99b7 r-boxShadow-12jw2te r-justifyContent-1777fci r-marginBlock-1apnidv r-width-17x6qj0</value>
+      <webElementGuid>a04ca3f2-1b94-44f0-bf26-ccc42d830c6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Refazer Suitability</value>
+      <webElementGuid>e3400323-a7ef-4cb4-a630-3a3a0bd6c93c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0 r-bottom-1p0dtai r-left-1d2f490 r-position-u8s1d r-right-zchlnj r-top-ipm5af&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0 r-overflow-1udh08x&quot;]/div[@class=&quot;css-view-g5y9jx r-bottom-1p0dtai r-left-1d2f490 r-position-u8s1d r-right-zchlnj r-top-ipm5af&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-alignItems-1awozwy r-backgroundColor-4dcnlu r-flex-13awgt0 r-justifyContent-1h0z5md&quot;]/div[@class=&quot;css-view-g5y9jx r-flexDirection-18u37iz r-flexWrap-1w6e6rj r-justifyContent-1wtj0ep r-width-e7q0ms&quot;]/div[@class=&quot;css-view-g5y9jx r-transitionProperty-1i6wzkk r-userSelect-lrvibr r-cursor-1loqt21 r-touchAction-1otgn73 r-alignItems-1awozwy r-aspectRatio-1ujkv8a r-backgroundColor-spuqty r-borderColor-1yh2gps r-borderRadius-1fuqb1j r-borderWidth-rs99b7 r-boxShadow-12jw2te r-justifyContent-1777fci r-marginBlock-1apnidv r-width-17x6qj0&quot;]</value>
+      <webElementGuid>191c6d68-0815-4a52-a6c5-7ef20e6a6101</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div/div/div/div/div/div/div/div[5]/div[2]</value>
+      <webElementGuid>f903b1c9-6ba1-4701-b31a-e8b0af496186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Conversar com o Assistente'])[1]/following::div[1]</value>
+      <webElementGuid>1845abee-9ede-4eda-9ee3-d8a4af36c7f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/following::div[2]</value>
+      <webElementGuid>709d1bd0-94a4-4bd8-b184-24798562cad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]</value>
+      <webElementGuid>e343aeeb-ccd2-4d37-8c3e-f98d300d89fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Refazer Suitability' or . = 'Refazer Suitability')]</value>
+      <webElementGuid>3e45313e-f9a9-4059-90d6-2fe0d8968306</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

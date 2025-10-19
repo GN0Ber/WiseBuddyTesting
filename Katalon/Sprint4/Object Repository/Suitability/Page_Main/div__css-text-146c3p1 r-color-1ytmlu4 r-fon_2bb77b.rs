@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__css-text-146c3p1 r-color-1ytmlu4 r-fon_2bb77b</name>
+   <tag></tag>
+   <elementGuidId>6d37c655-3c18-4782-a97c-b26df9f6dfcb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/div/div/div/div/div/div/div/div[5]/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Refazer Suitability&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>768596e8-95f4-4964-babf-5bcd3c41f318</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>74c14b79-e7ee-406d-b6c8-c822ceafba78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-text-146c3p1 r-color-1ytmlu4 r-fontSize-a023e6 r-fontWeight-1kfrs79 r-letterSpacing-1ikidpy r-marginTop-14gqq1x r-textAlign-q4m81j</value>
+      <webElementGuid>1f895179-f176-4d8c-8170-c0f6f813ba5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Refazer Suitability</value>
+      <webElementGuid>d812f32c-48d1-4278-9f00-73fa6cd981a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0 r-bottom-1p0dtai r-left-1d2f490 r-position-u8s1d r-right-zchlnj r-top-ipm5af&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0 r-overflow-1udh08x&quot;]/div[@class=&quot;css-view-g5y9jx r-bottom-1p0dtai r-left-1d2f490 r-position-u8s1d r-right-zchlnj r-top-ipm5af&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-alignItems-1awozwy r-backgroundColor-4dcnlu r-flex-13awgt0 r-justifyContent-1h0z5md&quot;]/div[@class=&quot;css-view-g5y9jx r-flexDirection-18u37iz r-flexWrap-1w6e6rj r-justifyContent-1wtj0ep r-width-e7q0ms&quot;]/div[@class=&quot;css-view-g5y9jx r-transitionProperty-1i6wzkk r-userSelect-lrvibr r-cursor-1loqt21 r-touchAction-1otgn73 r-alignItems-1awozwy r-aspectRatio-1ujkv8a r-backgroundColor-spuqty r-borderColor-1yh2gps r-borderRadius-1fuqb1j r-borderWidth-rs99b7 r-boxShadow-12jw2te r-justifyContent-1777fci r-marginBlock-1apnidv r-width-17x6qj0&quot;]/div[@class=&quot;css-text-146c3p1 r-color-1ytmlu4 r-fontSize-a023e6 r-fontWeight-1kfrs79 r-letterSpacing-1ikidpy r-marginTop-14gqq1x r-textAlign-q4m81j&quot;]</value>
+      <webElementGuid>4442f522-25fc-4b5b-b168-c2494b7751bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div/div/div/div/div/div/div/div[5]/div[2]/div[2]</value>
+      <webElementGuid>52524f9f-7d81-4b80-a102-3f1a061d2767</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/following::div[1]</value>
+      <webElementGuid>273f4c29-fd02-414a-8e41-797878658d77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Conversar com o Assistente'])[1]/following::div[4]</value>
+      <webElementGuid>382d574b-44b2-4770-9697-07ad3ced8978</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/preceding::div[1]</value>
+      <webElementGuid>13e30f1b-e013-4529-ae4d-d477b6a20d3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver Última Recomendação'])[1]/preceding::div[3]</value>
+      <webElementGuid>dbb6923a-863a-4882-9fae-57aa0d2f9be1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Refazer Suitability']/parent::*</value>
+      <webElementGuid>4a6eac23-8493-4cdb-bd95-b4cca6d0e243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div[2]</value>
+      <webElementGuid>1cfa70df-eed2-4e61-8d80-892861e6693b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Refazer Suitability' or . = 'Refazer Suitability')]</value>
+      <webElementGuid>dd2bd8de-0911-4dc0-89c9-f59c6c1cf086</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

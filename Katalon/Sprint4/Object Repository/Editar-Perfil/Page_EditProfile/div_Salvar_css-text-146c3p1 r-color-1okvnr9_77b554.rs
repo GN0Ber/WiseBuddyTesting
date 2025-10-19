@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Salvar_css-text-146c3p1 r-color-1okvnr9_77b554</name>
+   <tag></tag>
+   <elementGuidId>e5b3a4ff-0fc8-4d0d-8735-7df3934c53da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-view-g5y9jx.r-transitionProperty-1i6wzkk.r-userSelect-lrvibr.r-cursor-1loqt21.r-touchAction-1otgn73.r-borderRadius-1dzdj1l.r-boxShadow-1aazwju.r-flex-13awgt0.r-marginInline-1537yvj.r-alignItems-1awozwy.r-backgroundColor-v3rof4.r-marginLeft-1rngwi6.r-padding-nsbfu8 > div.css-text-146c3p1.r-color-1okvnr9.r-fontSize-1i10wst.r-fontWeight-vw2c0b.r-letterSpacing-ud0q2t</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[4]/div/div/div/div[11]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Cancelar&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fd80d9b8-2d6b-441e-87e9-13d73279c937</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>08d5379b-6c10-4137-910a-0d370c20255a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-text-146c3p1 r-color-1okvnr9 r-fontSize-1i10wst r-fontWeight-vw2c0b r-letterSpacing-ud0q2t</value>
+      <webElementGuid>71e61d5d-112f-4dd0-bf20-68a314c2e544</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cancelar</value>
+      <webElementGuid>4f6d65b5-7af0-4e3c-93c6-77f968bfaa7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0 r-bottom-1p0dtai r-left-1d2f490 r-position-u8s1d r-right-zchlnj r-top-ipm5af&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-flex-13awgt0&quot;]/div[@class=&quot;css-view-g5y9jx r-backgroundColor-4dcnlu r-flex-13awgt0 r-justifyContent-1777fci r-padding-d23pfw&quot;]/div[@class=&quot;css-view-g5y9jx r-flexDirection-18u37iz r-justifyContent-1wtj0ep r-marginTop-1wzrnnt&quot;]/div[@class=&quot;css-view-g5y9jx r-transitionProperty-1i6wzkk r-userSelect-lrvibr r-cursor-1loqt21 r-touchAction-1otgn73 r-borderRadius-1dzdj1l r-boxShadow-1aazwju r-flex-13awgt0 r-marginInline-1537yvj r-alignItems-1awozwy r-backgroundColor-v3rof4 r-marginLeft-1rngwi6 r-padding-nsbfu8&quot;]/div[@class=&quot;css-text-146c3p1 r-color-1okvnr9 r-fontSize-1i10wst r-fontWeight-vw2c0b r-letterSpacing-ud0q2t&quot;]</value>
+      <webElementGuid>7ea9e23b-c983-4a11-bc03-2acc45135ee2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[4]/div/div/div/div[11]/div[2]/div</value>
+      <webElementGuid>2e900049-fdce-4bce-8915-e962e460fbd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salvar'])[1]/following::div[2]</value>
+      <webElementGuid>7032d148-945c-4205-a7c6-d0a050c3ff0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Editar Perfil'])[2]/following::div[14]</value>
+      <webElementGuid>c9a18954-f05d-42f7-8726-fd307c694e81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cancelar']/parent::*</value>
+      <webElementGuid>5826818b-5f6a-4c4f-9994-172dd77656d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div[2]/div</value>
+      <webElementGuid>f847941a-1eb7-494b-b3c8-edd68dd10723</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Cancelar' or . = 'Cancelar')]</value>
+      <webElementGuid>52626a5d-2755-4f5b-bc56-1f82b532ae0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
